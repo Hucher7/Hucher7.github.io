@@ -1,2 +1,2 @@
-# Hucher7.github.io
+# Шишкин Максим
 My first project
